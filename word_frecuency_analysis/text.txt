@@ -1,0 +1,5 @@
+Python 3.0 was released on 3 December 2008. It was a major revision of the
+language that is not completely backward-compatible. Many of its major features
+were backported to Python 2.6.x and 2.7.x version series. Releases of Python 3
+include the 2to3 utility, which automates (at least partially) the translation
+of Python 2 code to Python 3.
